@@ -1,0 +1,14 @@
+.box
+{height: calc(700px - 100px);}
+.hed1
+{transform: translate(0, 260px); font-size: 60px; text-align: center;}
+.box1
+{background: linear-gradient(red, white, blue);}
+.box2
+{background: linear-gradient(green, white, blue);}
+.hed2
+{transform: translate(0, 260px); font-size: 60px; text-align: center; color: cadetblue;}
+.hed3
+{transform: translate(0, 260px); font-size: 60px; text-align: center; color: slateblue;}
+.box3
+{background: linear-gradient(rgb(112, 25, 25), rgb(177, 20, 20));}
